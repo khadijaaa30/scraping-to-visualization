@@ -1,0 +1,231 @@
+"Country","IncomeTaxTop","CorporateTax","VAT"
+"Afghanistan",20,20,0
+"Albania",23,15,20
+"Algeria",35,26,19
+"American Samoa",6,34,0
+"Andorra",10,10,4.5
+"Angola",17,30,10
+"Anguilla",0,0,0
+"Antigua and Barbuda",0,25,15
+"Argentina",35,35,21
+"Armenia",22,18,20
+"Aruba",58.95,25,1.5
+"Australia",45,30,10
+"Austria",55,25,20
+"Azerbaijan",25,20,18
+"Azores",36.2,13.6,4
+"Bahamas",0,0,12
+"Bahrain",0,0,10
+"Bangladesh",25,32.5,15
+"Barbados",38,5.5,17.5
+"Belarus",43.37,20,20
+"Belgium",60.45,25,21
+"Belize",25,0.75,12.5
+"Benin",35,35,18
+"Bermuda",0,0,0
+"Bhutan",25,26,NA
+"Bolivia",25,29,13
+"Bosnia and Herzegovina",10,10,17
+"Botswana",25,22,14
+"Brazil",27.5,40,20
+"Brunei",0,1,55
+"Bulgaria",10,10,20
+"Burkina Faso",25,27.5,18
+"Burundi",35,35,18
+"Cambodia",20,20,10
+"Cameroon",35,31.5,19.25
+"Canada",58.5,26.5,5
+"Cape Verde",27.5,25,15
+"Cayman Islands",0,0,0
+"Central African Republic",50,30,19
+"Chad",NA,20,NA
+"Chile",35,27,19
+"China",45,25,13
+"Colombia",35,35,19
+"Comoros",NA,35,NA
+"Cook Islands",30,30,15
+"DR Congo",40,35,20
+"Congo",NA,30,18.9
+"Costa Rica",25,30,13
+"Croatia",40,18,25
+"Cuba",50,30,20
+"Curaçao",46.5,22,6
+"Cyprus",35,12.5,19
+"Czech Republic",45.7,19,21
+"Denmark",52.07,22,25
+"Djibouti",NA,25,NA
+"Dominica",35,25,15
+"Dominican Republic",25,27,18
+"Timor-Leste",NA,10,NA
+"Ecuador",35,25,12
+"Egypt",22.5,22.5,14
+"El Salvador",30,30,13
+"Equatorial Guinea",35,35,15
+"Eritrea",NA,34,NA
+"Estonia",23.6,0,22
+"Eswatini (Swaziland)",33,27.5,15
+"Ethiopia",35,30,NA
+"Falkland Islands",26,26,0
+"Micronesia",NA,21,NA
+"Fiji",20,20,9
+"Finland",53.61,20,25.5
+"France",47.2,25,20
+"French Polynesia",NA,25,NA
+"Gabon",35,35,18
+"Gambia",30,31,NA
+"Germany",45,30,19
+"Georgia",20,0,18
+"Ghana",NA,25,3
+"Gibraltar",40,10,0
+"Greece",44,22,24
+"Grenada",NA,28,NA
+"Guatemala",7,25,12
+"Guernsey",20,0,0
+"Guinea",NA,35,NA
+"Guinea-Bissau",NA,35,NA
+"Guyana",40,30,14
+"Haiti",30,30,10
+"Honduras",NA,25,NA
+"Hong Kong",15,16.5,0
+"Hungary",15,9,27
+"Iceland",46.28,20,24
+"India",30,22,28
+"Indonesia",35,22,11
+"Iran",35,25,9
+"Iraq",15,15,0
+"Ireland",47.2,12.5,23
+"Isle of Man",22,0,20
+"Israel",50,23,17
+"Italy",43,27.9,22
+"Ivory Coast",NA,25,NA
+"Jamaica",25,33.3,20
+"Japan",50.5,29.74,10
+"Jersey",20,0,5
+"Jordan",25,20,16
+"Kazakhstan",10,20,13
+"Kenya",30,30,16
+"Kiribati",NA,35,NA
+"Kosovo",10,10,18
+"Kuwait",0,16,0
+"North Korea",20,25,4
+"Kyrgyzstan",10,10,12
+"Laos",NA,35,NA
+"Latvia",31.4,0,21
+"Lebanon",25,17,11
+"Lesotho",NA,25,NA
+"Liberia",NA,25,NA
+"Libya",NA,24.5,NA
+"Liechtenstein",22.4,12.5,8.1
+"Lithuania",42.77,15,21
+"Luxembourg",44.2,28.69,17
+"Macau",12,12,0
+"Madagascar",NA,20,NA
+"Madeira",45.1,5,5
+"Malawi",35,30,NA
+"Malaysia",30,24,10
+"Maldives",0,15,6
+"Mali",NA,30,NA
+"Malta",35,35,18
+"Marshall Islands",12,0.8,4
+"Mauritania",NA,25,NA
+"Mauritius",20,15,15
+"Mexico",35,30,16
+"Moldova",12,12,20
+"Monaco",0,0,19.6
+"Mongolia",10,10,10
+"Montenegro",12.65,9,21
+"Montserrat",NA,20,NA
+"Morocco",38,31,20
+"Mozambique",NA,32,NA
+"Myanmar",NA,22,NA
+"Namibia",37,32,15
+"Nauru",NA,25,NA
+"Nepal",36,30,13
+"Netherlands",49.5,25,21
+"New Zealand",39,28,15
+"New Caledonia",40,30,NA
+"Nicaragua",NA,30,NA
+"Niger",NA,30,7
+"Nigeria",24,30,7.5
+"Niue",NA,0,12.5
+"Norfolk Island",NA,0,NA
+"North Macedonia",18,10,18
+"Norway",40,23,25
+"Oman",0,15,5
+"Pakistan",35,0,17
+"Palau",NA,0,NA
+"Palestine",15,15,14.5
+"Panama",27,25,7
+"Papua New Guinea",NA,30,NA
+"Paraguay",10,10,10
+"Peru",30,30,16
+"Philippines",35,30,12
+"Pitcairn Islands",0,0,0
+"Poland",41,19,23
+"Portugal",56.03,21,23
+"Puerto Rico",33.34,20,11.5
+"Qatar",0,10,0
+"Romania",45,16,19
+"Russia",15,20,20
+"Rwanda",30,30,18
+"Saint Kitts and Nevis",0,33,NA
+"Saint Barthélemy",0,0,0
+"Saint Lucia",NA,30,NA
+"Saint Martin",NA,20,NA
+"Saint Pierre and Miquelon",NA,33.3,NA
+"Saint Vincent and the Grenadines",NA,30,NA
+"Samoa",NA,27,NA
+"San Marino",35,17,0
+"São Tomé and Príncipe",NA,25,NA
+"Sark",0,0,0
+"Saudi Arabia",0,2.5,15
+"Senegal",50,25,20
+"Serbia",25,15,20
+"Seychelles",15,33,15
+"Sierra Leone",NA,25,NA
+"Singapore",22,17,9
+"Sint Maarten",47.5,34.5,5
+"Slovakia",25,21,20
+"Slovenia",50,19,22
+"Solomon Islands",NA,30,NA
+"Somalia",0,0,0
+"South Africa",45,28,15
+"South Korea",42,24.2,10
+"South Sudan",NA,30,NA
+"Spain",52.3,25,21
+"Sri Lanka",36,30,12
+"Sudan",NA,5,NA
+"Suriname",38,36,NA
+"Svalbard",22,16,0
+"Sweden",45.6,20.6,25
+"Switzerland",50.14,17.92,8.1
+"Syria",15,22,NA
+"Taiwan",40,20,5
+"Tajikistan",13,13,18
+"Tanzania",30,30,14
+"Thailand",35,20,7
+"Togo",NA,27,NA
+"Tokelau",NA,0,NA
+"Tonga",NA,25,NA
+"Trinidad and Tobago",30,30,12.5
+"Tunisia",35,30,18
+"Turkey",40,25,20
+"Turkmenistan",NA,8,NA
+"Turks and Caicos Islands",NA,0,NA
+"Tuvalu",NA,30,NA
+"Uganda",NA,30,18
+"Ukraine",18,18,2
+"United Arab Emirates",0,0,5
+"United Kingdom",62,19,20
+"United States",45.38,21,11.5
+"Uruguay",36,25,22
+"Uzbekistan",12,12,15
+"Vanuatu",0,0,0
+"Venezuela",34,34,16
+"Vietnam",35,20,10
+"British Virgin Islands",0,0,NA
+"U.S. Virgin Islands",NA,21,NA
+"Wallis and Futuna",0,0,0
+"Yemen",15,20,2
+"Zambia",30,30,16
+"Zimbabwe",45,25,15
